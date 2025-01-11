@@ -15,3 +15,5 @@ _Guida per la collazione Excel:_
 I file possono essere consultati e sono ricercabili grazie ai filtri impostati, sono però molto pesanti e per tale motivo si consiglia la visualizzazione esclusivamente da Excel su sistema operativo Windows. La visualizzazione su Excel da Mac è instabile, mentre è funzionante quella del software Numbers di Apple, sebbene le formule non vengano riconosciute e vengano visualizzati solo i valori risultanti dalle operazioni [es. non si vedrà (=2+2), ma verrà visualizzato solo 4].
 Scaricare ed estrarre la cartella. 
 In caso Excel impedisca la visualizzazione dei file per via delle Macro, fare clic con il tasto destro su un file per volta e selezionare Proprietà e spuntare la casella "annulla blocco".
+
+Sono caricati per completezza anche i file csv, output del programma CollateX.
